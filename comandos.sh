@@ -32,10 +32,10 @@
    32  sudo apt install git vim python3 pip
    33  https://notepadqq.com/
    34  sudo apt install git vim notepadqq
-   35  git cinfig --global user.name "Ryan Ferreira"
-   36  git config --global user.name "Ryan Ferreira"
-   37  git config --global user global user.email ryan.flima32@gmail.com
-   38  git config --global user.email ryan.flima32@gmail.com
+   35  git cinfig --global user.name "ryan0f0lima32"
+   36  git config --global user.name "ryan0f0lima32"
+   37  
+   38  
    39  git config --global core.editor vim
    40  git config --global merge.tool vimdiff
    41  git config --global color.ui true
